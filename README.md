@@ -1,7 +1,10 @@
 # ProjectPENSO
+
+## พรชนิตวิ์ เหล่าโยธี
 - ระบบการเตรียมและจัดการฐานข้อมูลการส่งเสริมชุมชนของมหาวิทยาลัยขอนแก่น
 Community Promotion Data Preparation and Database Management System of Khon Kaen University
 
+## ปีย์รดา ภู่ถนนนอก
 - แดชบอร์ดเชิงโต้ตอบเพื่อสรุปและติดตามผลโครงการส่งเสริมชุมชนโดยมหาวิทยาลัยขอนแก่น
 Interactive Dashboard for Summarizing and Monitoring Community Promotion Projects by Khon Kaen University
 
