@@ -10,8 +10,9 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 
 ## 🔗 ลิงก์สำคัญ
 - 📁 Report SIDS:https://drive.google.com/drive/folders/1uRcup1F10zBbA3MKRt02xfXc_qnN1Ay8?usp=drive_link
-- 📊 Dataset: ...
+- 📊 Dataset: https://docs.google.com/spreadsheets/d/1-XnnJFQNta5kIBFE9YIuIyxkCbBQ6EI37szT3sDfSF8/edit?usp=sharing
 - 📈 Dashboard: ...
+- 👩🏻‍💻 Code:
 - 📄 รายงาน: ...
 
 ## 🗺️ Workflow
