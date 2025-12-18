@@ -21,7 +21,7 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 - Chapter 3 ⏳
 
 ## 📕 เล่มที่ 2
-- Chapter 1 ⏳
+- Chapter 1 ⏳https://kkumail-my.sharepoint.com/:w:/p/peerada_ph/IQD0irVr8OSTSrpPVk_yvIt6AQFQmTjZ3igSmgtX_nzEFbY?e=xCXFAk
 - Chapter 2 ⏳
 - Chapter 3 ⏳
 
