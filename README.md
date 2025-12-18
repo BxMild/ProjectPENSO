@@ -1,6 +1,6 @@
 # ProjectPENSO
 
-## พรชนิตวิ์ เหล่าโยธี
+## พรชนิตว์ เหล่าโยธี
 - ระบบการเตรียมและจัดการฐานข้อมูลการส่งเสริมชุมชนของมหาวิทยาลัยขอนแก่น
 Community Promotion Data Preparation and Database Management System of Khon Kaen University
 
