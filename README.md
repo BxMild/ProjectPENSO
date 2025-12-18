@@ -15,6 +15,16 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 - 👩🏻‍💻 Code:https://colab.research.google.com/drive/1UmnXVssqkEnl89k4_wxeSrehsSErVw5k?usp=sharing
 - 📄 รายงาน: ...
 
+## 📘 เล่มที่ 1
+- Chapter 1 ⏳
+- Chapter 2 ⏳
+- Chapter 3 ⏳
+
+## 📕 เล่มที่ 2
+- Chapter 1 ⏳
+- Chapter 2 ⏳
+- Chapter 3 ⏳
+
 ## 🗺️ Workflow
 1. เก็บข้อมูล
 2. ทำความสะอาดข้อมูล
