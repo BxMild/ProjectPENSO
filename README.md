@@ -15,6 +15,7 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 - 📈 Dashboard: ...
 - 👩🏻‍💻 Code:https://colab.research.google.com/drive/1UmnXVssqkEnl89k4_wxeSrehsSErVw5k?usp=sharing
 - 📄 รายงาน: ...
+- ⬜ ER Diagram : https://drive.google.com/file/d/1pYLXD6RJ86bMrs_ZRNYenytzHVbAslGc/view?usp=sharing
 
 ## 📘 เล่มที่ 1
 - Chapter 1 ⏳
