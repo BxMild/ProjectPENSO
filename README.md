@@ -18,7 +18,7 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 - ⬜ ER Diagram : https://drive.google.com/file/d/1pYLXD6RJ86bMrs_ZRNYenytzHVbAslGc/view?usp=sharing
 
 ## 📘 เล่มที่ 1
-- Chapter 1 ⏳https://kkumail-my.sharepoint.com/:w:/p/phonchanit_l/IQCvagN5gFehRaWzvWuaZRXhAbyKN_a97WflJyTeLpSQq9c
+- Chapter 1 ⏳https://kkumail-my.sharepoint.com/:w:/p/phonchanit_l/IQCC-5ngVUnbQpdngeo0o5iUAeJavruhxRnNn2PtpXhNp70
 - Chapter 2 ⏳
 - Chapter 3 ⏳
 
