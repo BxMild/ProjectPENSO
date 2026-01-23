@@ -19,7 +19,7 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 
 ## 📘 เล่มที่ 1
 - Chapter 1 ⏳https://kkumail-my.sharepoint.com/:w:/p/phonchanit_l/IQCC-5ngVUnbQpdngeo0o5iUAeJavruhxRnNn2PtpXhNp70
-- Chapter 2 ⏳
+- Chapter 2 ⏳https://kkumail-my.sharepoint.com/:w:/p/phonchanit_l/IQBj1vzhQ9AGRZLYQT5CEL1kAXpRupCfn8sS-h4bbimkZ2o
 - Chapter 3 ⏳
 
 ## 📕 เล่มที่ 2
