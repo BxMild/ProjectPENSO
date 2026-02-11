@@ -25,7 +25,7 @@ Interactive Dashboard for Summarizing and Monitoring Community Promotion Project
 ## 📕 เล่มที่ 2
 - Chapter 1 ⏳https://kkumail-my.sharepoint.com/:w:/p/peerada_ph/IQD0irVr8OSTSrpPVk_yvIt6AQFQmTjZ3igSmgtX_nzEFbY?e=xCXFAk
 - Chapter 2 ⏳
-- Chapter 3 ⏳
+- Chapter 3 ⏳https://kkumail-my.sharepoint.com/:w:/p/peerada_ph/IQB_CbDE2C3PTr87QACJ3KUJAfI92QoHhjcWfWwVDjgxOC8?e=htE38p
 
 ## 🗺️ Workflow
 1. เก็บข้อมูล
